@@ -9,7 +9,7 @@ Report created on: {{date}} {{time}}
 
 - [ ] VALIDATION
 
-- [ ] Get Metada
+- [ ] Get Metadata
 
 - [ ] OSINT
 
