@@ -39,7 +39,8 @@ The crypto address is / is not valid.
 ## Step 3 -OSINT
 - Check Bitcoin Abuse;
 - Check Bitcoin Who's Who;
-- Check Google
+- Check Google;
+- Check Darkweb search engines.
 
 ### Add Selectors (social media, interesting links, etc)
 []
